@@ -1,0 +1,2 @@
+Initial board: ['-', '-', '-', '-', '-', '-', '-', '-', '-']
+Current player: X
